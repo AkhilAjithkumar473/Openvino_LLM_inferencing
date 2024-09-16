@@ -5,7 +5,7 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AkhilAjithkumar473/Openvino_LLM_inferencing">
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AkhilAjithkumar473/Openvino_LLM_inferencing">
+  <img alt="Views" src="https://img.shields.io/github/watchers/AkhilAjithkumar473/Openvino_LLM_inferencing">
 </p>
 
 <p align="center">
